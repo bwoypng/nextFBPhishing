@@ -21,7 +21,7 @@ if you want to build the Front END again you need npm
 Go into the frontEndSRC and run npm install wait and then npm run build
 
 if you just wanna see how the system works for educational purposes download the release at
-https://github.com/socialAPIS/nextFBPhishing/tree/master/release and extract the files at htdocs folder.
+https://github.com/socialAPIS/nextFBPhishing/releases and extract the files at htdocs folder.
 
 
 ## DISCLAIMER
