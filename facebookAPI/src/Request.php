@@ -50,7 +50,6 @@ class Request {
         try {
             $res = $this->client->request($method,
                 $uri, [
-                    'proxy' => 'localhost:8080',
                     'headers' => [
                         "Content-Encoding"=>"gzip",
                         'Authorization' => $this->authorization,
